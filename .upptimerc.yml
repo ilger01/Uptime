@@ -88,7 +88,7 @@ status-website:
   introTitle: "Servers Status - Site 01"
   introMessage: Status page with **real-time** data
   navbar:
-    - title: Status - 01
+    - title: Status Page - 01
       href: /Uptime
     - title: Site-00
       href: https://ilger-supporto.github.io/Uptime/
