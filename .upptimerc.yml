@@ -4,6 +4,9 @@ repo: Uptime # The name of this repository
 
 sites:
 
+  - name: Test site
+    url: https://post.ilger.com
+    
   - name: MTA2-DC
     check: "tcp-ping"
     url: $MTA2_DC
