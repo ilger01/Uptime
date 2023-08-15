@@ -3,8 +3,78 @@ owner: ilger01 # Your GitHub organization or username, where this repository liv
 repo: Uptime # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
+
+  - name: MTA2-DC
+    check: "tcp-ping"
+    url: $MTA2_DC
+    port: 25
+
+  - name: MTA3-DC
+    check: "tcp-ping"
+    url: $MTA3_DC
+    port: 25
+
+  - name: MTA4-DC
+    check: "tcp-ping"
+    url: $MTA4_DC
+    port: 25
+
+  - name: PRX_2_DC
+    url: $PRX_2_DC
+
+  - name: PRX_3_DC
+    url: $PRX_3_DC
+
+  - name: MX3
+    url: $MX3
+
+  - name: MX2
+    url: $MX2
+
+  - name: OPEN12
+    url: $OPEN12
+
+  - name: Z_POLARIS
+    url: $Z_POLARIS
+
+  - name: POSTA_ZEUS
+    url: $POSTA_ZEUS
+
+  - name: SPIDER4WEB
+    url: $SPIDER4WEB
+
+  - name: BBMNET
+    url: $BBMNET
+
+  - name: Z02_CASACURA
+    url: $Z02_CASACURA
+
+  - name: MAIL1_BP
+    url: $MAIL1_BP
+
+  - name: MAIL_ACIER_PLUS
+    url: $MAIL_ACIER_PLUS
+
+  - name: FONDAZIONECRT
+    url: $FONDAZIONECRT
+
+  - name: BARI_02
+    url: $BARI_02
+
+  - name: COMUNE_SANLAZZARO
+    url: $COMUNE_SANLAZZARO
+
+  - name: MAIL02_FOMGRP
+    url: $MAIL02_FOMGRP
+
+  - name: MTA1_MAILISSIMA
+    url: $MTA1_MAILISSIMA
+
+  - name: OPENDOTCOM
+    url: $OPENDOTCOM
+
+  - name: PIXTEAM
+    url: $PIXTEAM
 
 
 status-website:
@@ -20,8 +90,8 @@ status-website:
   navbar:
     - title: Status - 01
       href: /Uptime
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+    - title: Site-00
+      href: https://ilger-supporto.github.io/Uptime/
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
