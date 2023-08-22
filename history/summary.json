@@ -153,19 +153,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "z-polaris",
     "status": "up",
-    "uptime": "99.88%",
-    "uptimeDay": "99.17%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.88%",
-    "uptimeYear": "99.88%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 898,
     "timeDay": 967,
     "timeWeek": 898,
     "timeMonth": 898,
     "timeYear": 898,
-    "dailyMinutesDown": {
-      "2023-08-22": 12
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "POSTA_ZEUS",
@@ -190,19 +188,19 @@
     "url": "$SPIDER4WEB",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "spider-4-web",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1269,
-    "timeDay": 776,
-    "timeWeek": 1269,
-    "timeMonth": 1269,
-    "timeYear": 1269,
+    "status": "up",
+    "uptime": "99.55%",
+    "uptimeDay": "96.94%",
+    "uptimeWeek": "99.55%",
+    "uptimeMonth": "99.55%",
+    "uptimeYear": "99.55%",
+    "time": 1244,
+    "timeDay": 848,
+    "timeWeek": 1244,
+    "timeMonth": 1244,
+    "timeYear": 1244,
     "dailyMinutesDown": {
-      "2023-08-22": 0
+      "2023-08-22": 44
     }
   },
   {
