@@ -172,7 +172,7 @@
     "slug": "posta-zeus",
     "status": "up",
     "uptime": "99.76%",
-    "uptimeDay": "97.96%",
+    "uptimeDay": "98.05%",
     "uptimeWeek": "99.71%",
     "uptimeMonth": "99.76%",
     "uptimeYear": "99.76%",
@@ -191,11 +191,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "spider-4-web",
     "status": "up",
-    "uptime": "99.64%",
+    "uptime": "99.65%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.56%",
-    "uptimeMonth": "99.64%",
-    "uptimeYear": "99.64%",
+    "uptimeMonth": "99.65%",
+    "uptimeYear": "99.65%",
     "time": 1194,
     "timeDay": 838,
     "timeWeek": 880,
@@ -228,9 +228,9 @@
     "url": "$Z02_CASACURA",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "z02-casacura",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -239,7 +239,9 @@
     "timeWeek": 908,
     "timeMonth": 900,
     "timeYear": 900,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-08-24": 0
+    }
   },
   {
     "name": "MAIL1_BP",
