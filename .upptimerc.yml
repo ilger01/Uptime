@@ -85,13 +85,23 @@ status-website:
   logoUrl: https://www.ilger.com/wp-content/uploads/2021/11/ILGER-logo.png
   baseUrl: /Uptime
   icon: https://www.ilger.com/wp-content/uploads/2022/03/ilger-logo-favicon.png
-  introTitle: "Servers Status - Site 01"
-  introMessage: Status page with **real-time** data
+  introTitle: "Page - 2"
+  introMessage: Servers Status with **real-time** data
+
   navbar:
-    - title: Status Page - 01
+    - title: Page1
+      href: https://ilger-supporto.github.io/Uptime/history/ilger
+    - title: Page2
       href: /Uptime
-    - title: Site-00
-      href: https://ilger-supporto.github.io/Uptime/
+    - title: Page3
+      href: https://ilger02.github.io/Uptime/
+    - title: Page4
+      href: https://ilger03.github.io/Uptime/
+    - title: Page5
+      href: https://ilger04.github.io/Uptime/
+    - title: Page6
+      href: https://ilger05.github.io/Uptime/
+
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
