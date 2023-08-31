@@ -323,19 +323,19 @@
     "url": "$COMUNE_SANLAZZARO",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "comune-sanlazzaro",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 3845,
-    "timeDay": 5356,
-    "timeWeek": 3647,
-    "timeMonth": 3845,
-    "timeYear": 3845,
+    "status": "up",
+    "uptime": "99.86%",
+    "uptimeDay": "97.83%",
+    "uptimeWeek": "99.69%",
+    "uptimeMonth": "99.86%",
+    "uptimeYear": "99.86%",
+    "time": 3894,
+    "timeDay": 5217,
+    "timeWeek": 3790,
+    "timeMonth": 3894,
+    "timeYear": 3894,
     "dailyMinutesDown": {
-      "2023-08-31": 0
+      "2023-08-31": 31
     }
   },
   {
