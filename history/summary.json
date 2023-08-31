@@ -269,12 +269,12 @@
     "slug": "mail-acier-plus",
     "status": "up",
     "uptime": "99.89%",
-    "uptimeDay": "99.15%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.75%",
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.89%",
     "time": 1007,
-    "timeDay": 2606,
+    "timeDay": 878,
     "timeWeek": 1148,
     "timeMonth": 1007,
     "timeYear": 1007,
@@ -288,19 +288,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "fondazionecrt",
     "status": "up",
-    "uptime": "99.95%",
-    "uptimeDay": "99.14%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.95%",
-    "uptimeYear": "99.95%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 794,
     "timeDay": 762,
     "timeWeek": 801,
     "timeMonth": 794,
     "timeYear": 794,
-    "dailyMinutesDown": {
-      "2023-08-31": 12
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "BARI_02",
@@ -325,9 +323,9 @@
     "url": "$COMUNE_SANLAZZARO",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "comune-sanlazzaro",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -336,7 +334,9 @@
     "timeWeek": 3647,
     "timeMonth": 3845,
     "timeYear": 3845,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-08-31": 0
+    }
   },
   {
     "name": "MAIL02_FOMGRP",
