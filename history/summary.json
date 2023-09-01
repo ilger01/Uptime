@@ -294,7 +294,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 797,
-    "timeDay": 760,
+    "timeDay": 875,
     "timeWeek": 788,
     "timeMonth": 797,
     "timeYear": 797,
@@ -380,36 +380,36 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "opendotcom",
     "status": "up",
-    "uptime": "99.95%",
-    "uptimeDay": "99.16%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.95%",
-    "uptimeYear": "99.95%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 883,
     "timeDay": 998,
     "timeWeek": 888,
     "timeMonth": 883,
     "timeYear": 883,
-    "dailyMinutesDown": {
-      "2023-09-01": 12
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "PIXTEAM",
     "url": "$PIXTEAM",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "pixteam",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2791,
-    "timeDay": 1246,
-    "timeWeek": 1704,
-    "timeMonth": 2791,
-    "timeYear": 2791,
-    "dailyMinutesDown": {}
+    "time": 2765,
+    "timeDay": 1687,
+    "timeWeek": 1757,
+    "timeMonth": 2765,
+    "timeYear": 2765,
+    "dailyMinutesDown": {
+      "2023-09-01": 0
+    }
   }
 ]
