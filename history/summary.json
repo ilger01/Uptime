@@ -325,7 +325,7 @@
     "slug": "comune-sanlazzaro",
     "status": "up",
     "uptime": "99.87%",
-    "uptimeDay": "97.83%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.69%",
     "uptimeMonth": "99.87%",
     "uptimeYear": "99.87%",
@@ -397,19 +397,19 @@
     "url": "$PIXTEAM",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "pixteam",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 2765,
-    "timeDay": 1687,
-    "timeWeek": 1757,
-    "timeMonth": 2765,
-    "timeYear": 2765,
+    "status": "up",
+    "uptime": "99.86%",
+    "uptimeDay": "97.66%",
+    "uptimeWeek": "99.67%",
+    "uptimeMonth": "99.86%",
+    "uptimeYear": "99.86%",
+    "time": 2702,
+    "timeDay": 1478,
+    "timeWeek": 1679,
+    "timeMonth": 2702,
+    "timeYear": 2702,
     "dailyMinutesDown": {
-      "2023-09-01": 0
+      "2023-09-01": 34
     }
   }
 ]
