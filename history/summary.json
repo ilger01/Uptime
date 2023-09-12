@@ -368,9 +368,9 @@
     "url": "$MTA1_MAILISSIMA",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mta-1-mailissima",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -379,7 +379,9 @@
     "timeWeek": 772,
     "timeMonth": 769,
     "timeYear": 769,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-09-12": 0
+    }
   },
   {
     "name": "OPENDOTCOM",
