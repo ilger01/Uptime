@@ -98,11 +98,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mx-3",
     "status": "up",
-    "uptime": "99.91%",
+    "uptime": "99.92%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.93%",
-    "uptimeYear": "99.91%",
+    "uptimeYear": "99.92%",
     "time": 936,
     "timeDay": 1122,
     "timeWeek": 911,
@@ -389,9 +389,9 @@
     "url": "$OPENDOTCOM",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "opendotcom",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -400,7 +400,9 @@
     "timeWeek": 897,
     "timeMonth": 911,
     "timeYear": 899,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-10-03": 0
+    }
   },
   {
     "name": "PIXTEAM",
