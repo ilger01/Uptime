@@ -22,9 +22,9 @@
     "url": "$MTA3_DC",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mta-3-dc",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,7 +33,9 @@
     "timeWeek": 223,
     "timeMonth": 238,
     "timeYear": 252,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-11-06": 0
+    }
   },
   {
     "name": "MTA4-DC",
