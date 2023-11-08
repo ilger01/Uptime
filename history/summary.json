@@ -392,19 +392,19 @@
     "url": "$OPENDOTCOM",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "opendotcom",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 884,
-    "timeDay": 907,
-    "timeWeek": 895,
-    "timeMonth": 870,
-    "timeYear": 884,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.25%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
+    "time": 883,
+    "timeDay": 873,
+    "timeWeek": 883,
+    "timeMonth": 868,
+    "timeYear": 883,
     "dailyMinutesDown": {
-      "2023-11-08": 0
+      "2023-11-08": 11
     }
   },
   {
