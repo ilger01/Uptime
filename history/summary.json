@@ -238,9 +238,9 @@
     "url": "$Z02_CASACURA",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "z02-casacura",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.95%",
@@ -250,6 +250,7 @@
     "timeMonth": 880,
     "timeYear": 940,
     "dailyMinutesDown": {
+      "2023-11-08": 0,
       "2023-09-11": 30,
       "2023-08-24": 27
     }
