@@ -222,18 +222,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "bbmnet",
     "status": "up",
-    "uptime": "99.97%",
-    "uptimeDay": "97.72%",
-    "uptimeWeek": "99.67%",
-    "uptimeMonth": "99.92%",
-    "uptimeYear": "99.97%",
+    "uptime": "99.99%",
+    "uptimeDay": "98.73%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.99%",
     "time": 1119,
     "timeDay": 860,
     "timeWeek": 892,
     "timeMonth": 1215,
     "timeYear": 1119,
     "dailyMinutesDown": {
-      "2023-11-09": 15,
       "2023-11-08": 18
     }
   },
@@ -401,9 +400,9 @@
     "url": "$OPENDOTCOM",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "opendotcom",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -412,7 +411,9 @@
     "timeWeek": 880,
     "timeMonth": 870,
     "timeYear": 882,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-11-09": 0
+    }
   },
   {
     "name": "PIXTEAM",
