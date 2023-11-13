@@ -25,7 +25,7 @@
     "status": "up",
     "uptime": "99.98%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.74%",
+    "uptimeWeek": "99.75%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.98%",
     "time": 253,
@@ -286,9 +286,9 @@
     "url": "$MAIL_ACIER_PLUS",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mail-acier-plus",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
@@ -298,6 +298,7 @@
     "timeMonth": 830,
     "timeYear": 893,
     "dailyMinutesDown": {
+      "2023-11-13": 0,
       "2023-08-30": 25
     }
   },
