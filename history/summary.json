@@ -426,9 +426,9 @@
     "url": "$PIXTEAM",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "pixteam",
-    "status": "up",
+    "status": "down",
     "uptime": "99.89%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "98.91%",
     "uptimeMonth": "99.75%",
     "uptimeYear": "99.89%",
@@ -438,6 +438,7 @@
     "timeMonth": 1820,
     "timeYear": 1778,
     "dailyMinutesDown": {
+      "2023-11-15": 0,
       "2023-11-09": 90,
       "2023-11-08": 20,
       "2023-09-01": 34
