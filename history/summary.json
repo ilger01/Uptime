@@ -146,19 +146,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "open-12",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.09%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 777,
     "timeDay": 899,
     "timeWeek": 771,
     "timeMonth": 788,
     "timeYear": 777,
-    "dailyMinutesDown": {
-      "2023-11-23": 13
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Z_POLARIS",
@@ -389,9 +387,9 @@
     "url": "$MTA1_MAILISSIMA",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mta-1-mailissima",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.95%",
@@ -401,6 +399,7 @@
     "timeMonth": 816,
     "timeYear": 787,
     "dailyMinutesDown": {
+      "2023-11-23": 0,
       "2023-11-09": 36,
       "2023-09-12": 37
     }
