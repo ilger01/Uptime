@@ -347,7 +347,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 876,
-    "timeDay": 860,
+    "timeDay": 714,
     "timeWeek": 1056,
     "timeMonth": 876,
     "timeYear": 876,
@@ -381,19 +381,19 @@
     "url": "$MAIL02_FOMGRP",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mail-02-fomgrp",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.15%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.99%",
     "time": 853,
-    "timeDay": 751,
-    "timeWeek": 904,
-    "timeMonth": 837,
+    "timeDay": 811,
+    "timeWeek": 900,
+    "timeMonth": 838,
     "timeYear": 853,
     "dailyMinutesDown": {
-      "2024-02-02": 0
+      "2024-02-02": 12
     }
   },
   {
