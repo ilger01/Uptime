@@ -174,7 +174,7 @@
     "uptime": "99.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.95%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "99.99%",
     "time": 915,
     "timeDay": 1010,
@@ -341,9 +341,9 @@
     "url": "$BARI_02",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "bari-02",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -353,6 +353,7 @@
     "timeMonth": 849,
     "timeYear": 874,
     "dailyMinutesDown": {
+      "2024-02-29": 0,
       "2023-11-09": 26
     }
   },
