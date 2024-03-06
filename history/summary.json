@@ -307,7 +307,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 881,
-    "timeDay": 893,
+    "timeDay": 1100,
     "timeWeek": 963,
     "timeMonth": 913,
     "timeYear": 881,
@@ -386,10 +386,10 @@
     "url": "$MAIL02_FOMGRP",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mail-02-fomgrp",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 856,
@@ -397,7 +397,9 @@
     "timeWeek": 966,
     "timeMonth": 887,
     "timeYear": 856,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-03-06": 1
+    }
   },
   {
     "name": "MTA1_MAILISSIMA",
