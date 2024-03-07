@@ -324,7 +324,7 @@
     "slug": "fondazionecrt",
     "status": "up",
     "uptime": "99.96%",
-    "uptimeDay": "98.27%",
+    "uptimeDay": "98.64%",
     "uptimeWeek": "99.75%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.96%",
@@ -406,9 +406,9 @@
     "url": "$MTA1_MAILISSIMA",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mta-1-mailissima",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
@@ -418,6 +418,7 @@
     "timeMonth": 806,
     "timeYear": 786,
     "dailyMinutesDown": {
+      "2024-03-07": 0,
       "2023-11-09": 36,
       "2023-09-12": 37
     }
