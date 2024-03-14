@@ -24,10 +24,10 @@
     "url": "$MTA3_DC",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mta-3-dc",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 202,
@@ -36,6 +36,7 @@
     "timeMonth": 133,
     "timeYear": 202,
     "dailyMinutesDown": {
+      "2024-03-14": 1,
       "2023-11-06": 26
     }
   },
@@ -418,7 +419,7 @@
     "uptimeYear": "99.98%",
     "time": 784,
     "timeDay": 785,
-    "timeWeek": 734,
+    "timeWeek": 744,
     "timeMonth": 789,
     "timeYear": 784,
     "dailyMinutesDown": {
@@ -434,12 +435,12 @@
     "status": "up",
     "uptime": "99.98%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.82%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.98%",
     "time": 894,
     "timeDay": 899,
-    "timeWeek": 883,
+    "timeWeek": 902,
     "timeMonth": 916,
     "timeYear": 894,
     "dailyMinutesDown": {
@@ -461,7 +462,7 @@
     "uptimeYear": "99.94%",
     "time": 1757,
     "timeDay": 1010,
-    "timeWeek": 986,
+    "timeWeek": 1004,
     "timeMonth": 1412,
     "timeYear": 1757,
     "dailyMinutesDown": {
