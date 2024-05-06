@@ -1,7 +1,7 @@
 url: $MTA1_MAILISSIMA
-status: down
-code: 404
-responseTime: 2657
-lastUpdated: 2024-05-06T04:14:25.989Z
+status: up
+code: 200
+responseTime: 688
+lastUpdated: 2024-05-06T04:30:57.646Z
 startTime: 2023-08-15T11:38:30.000Z
 generator: Upptime <https://github.com/upptime/upptime>
