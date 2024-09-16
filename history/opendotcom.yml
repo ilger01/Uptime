@@ -1,7 +1,7 @@
 url: $OPENDOTCOM
-status: up
-code: 200
-responseTime: 1245
-lastUpdated: 2024-09-15T23:17:51.862Z
+status: down
+code: 0
+responseTime: 0
+lastUpdated: 2024-09-16T04:12:41.668Z
 startTime: 2023-08-15T11:38:31.000Z
 generator: Upptime <https://github.com/upptime/upptime>
