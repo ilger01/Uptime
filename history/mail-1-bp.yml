@@ -1,7 +1,7 @@
 url: $MAIL1_BP
-status: down
-code: 404
-responseTime: 854
-lastUpdated: 2025-01-08T04:43:22.130Z
+status: up
+code: 200
+responseTime: 943
+lastUpdated: 2025-01-08T04:55:47.200Z
 startTime: 2023-08-15T11:38:23.000Z
 generator: Upptime <https://github.com/upptime/upptime>
